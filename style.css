@@ -37,7 +37,7 @@ nav button {
     border: 1px solid hsl(208, 11%, 55%);
     border-radius: 30px;
     width: 150px;
-    box-shadow: 0 8px 2px -2px grey;
+    box-shadow: 0 8px 2px -5px grey;
 }
 nav button:hover {
     cursor: pointer;
@@ -469,6 +469,13 @@ footer {
     }
     .container4 p {
         width: 350px;
+    }
+    .section {
+        width: 300px;
+        padding: 15px;
+        margin-top: 60px;
+        margin-bottom: -55px;
+        font-size: 15px;
     }
     #footer-div{
         font-size: 14px;
